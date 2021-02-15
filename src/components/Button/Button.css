@@ -1,0 +1,10 @@
+.btn {
+  width: 20%;
+  height: 88px;
+  margin: 2.5%;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 30px;
+}
+.btn:last-of-type {
+  width: 100%;
+}

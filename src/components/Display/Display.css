@@ -1,0 +1,11 @@
+.display {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 100px;
+  border: 1px solid #cccccc;
+  background: #c1ffc6;
+  padding: 0 10px;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 40px;
+}
